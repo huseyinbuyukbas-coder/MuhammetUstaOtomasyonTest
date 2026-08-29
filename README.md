@@ -11,6 +11,11 @@
 3e3e3ee3e3
 - abceefefefewfew
 
+
+HAYDE GÜZELİM ŞEKER EZELİM...
+
+
+
 ## Kurulum ve Çalıştırma
 
 ```bash
