@@ -9,7 +9,7 @@
 - **Yüksek Yoğunluklu Tasarım:** Net tipografi, optimize edilmiş alan kullanımı ve modern kullanıcı arayüzü.
 - **İstanbul Hizmet Ağı:** Anadolu ve Avrupa yakası tüm ilçelere doğrudan erişim.
 
-- abc
+- abceefefefewfew
 
 ## Kurulum ve Çalıştırma
 
