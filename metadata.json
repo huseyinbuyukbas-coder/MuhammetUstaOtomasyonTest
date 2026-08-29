@@ -1,0 +1,7 @@
+{
+  "name": "Muhammet Usta Klima ve Kombi Teknik Servisi",
+  "description": "İstanbul ve çevresinde profesyonel klima ve kombi bakım, onarım, arıza tamiri, petek temizliği ve montaj hizmetleri. 1 yıl garantili teknik servis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
